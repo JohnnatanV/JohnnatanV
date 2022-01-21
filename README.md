@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johnnatan Villaneda</h1>
 <h3 align="center">A noov frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Angular and next will be React.**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-cv-pi.vercel.app/](https://portfolio-cv-pi.vercel.app/)
 
